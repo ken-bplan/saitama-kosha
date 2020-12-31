@@ -4,15 +4,11 @@
             "id":"string",
             "titel":"string",
             "details":"string",
-            "keywords":"Keywords[]",
             "startdate":"date",
             "enddate":"date",
             "viewcount": "int",
             "viewcountnew":"int",
             "inquirycount":"int",
             "inquirycountnew": "int"
-    },
-    "Keywords" :{
-        "keyword":"string"
     }
 }
