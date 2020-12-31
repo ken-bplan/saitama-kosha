@@ -1,5 +1,5 @@
 {
-    "proposals": [
+   data: { "proposals": [
       {
         "companyid": "LMhTccIReC",
         "details": "kRWVmJsIil",
@@ -121,5 +121,5 @@
         "viewcountnew": 93
       }
     ]
-  
+         }
 }
