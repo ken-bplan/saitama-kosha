@@ -14,7 +14,7 @@
             "inquiry-count-new": "int"
         }
     },
-    "Keywords"{
+    "Keywords" :{
         "keyword":"string"
     }
 }
