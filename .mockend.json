@@ -2,7 +2,7 @@
     "Proposals":{
         "companyid": "string",
             "id":"string",
-            "titel":"string",
+            "title":"string",
             "details":"string",
             "startdate":"date",
             "enddate":"date",
