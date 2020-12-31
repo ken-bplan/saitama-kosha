@@ -1,5 +1,5 @@
 {
-    "Proposals":{
+    "proposals":{
         "companyid": "string",
             "id":"string",
             "title":"string",
