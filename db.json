@@ -1,5 +1,6 @@
 {
-   "data": { "proposals": [
+  "data": {
+    "proposals": [
       {
         "companyid": "LMhTccIReC",
         "details": "kRWVmJsIil",
@@ -11,7 +12,115 @@
         "title": "koJoZevWdy",
         "viewcount": 60,
         "viewcountnew": 7
+      },
+      {
+        "companyid": "YDHWJsvwcT",
+        "details": "HTMQYIjtRc",
+        "enddate": "1985-07-20T23:08:12Z",
+        "id": "2",
+        "inquirycount": 70,
+        "inquirycountnew": 79,
+        "startdate": "1969-07-15T22:06:42Z",
+        "title": "cpvkiKGAvH",
+        "viewcount": 76,
+        "viewcountnew": 66
+      },
+      {
+        "companyid": "QvKqXLazpE",
+        "details": "TCCLYYPScq",
+        "enddate": "1959-11-22T17:03:31Z",
+        "id": "3",
+        "inquirycount": 3,
+        "inquirycountnew": 5,
+        "startdate": "1947-10-07T06:44:35Z",
+        "title": "VQYYWHVodU",
+        "viewcount": 35,
+        "viewcountnew": 37
+      },
+      {
+        "companyid": "ACpSvFxUWP",
+        "details": "KXFJMPhyMm",
+        "enddate": "2011-03-21T07:17:53Z",
+        "id": "4",
+        "inquirycount": 44,
+        "inquirycountnew": 76,
+        "startdate": "1993-04-07T08:36:10Z",
+        "title": "allWGCavXM",
+        "viewcount": 25,
+        "viewcountnew": 41
+      },
+      {
+        "companyid": "TQWqLqEObJ",
+        "details": "TkPrHkEBvj",
+        "enddate": "2004-09-03T05:52:44Z",
+        "id": "5",
+        "inquirycount": 68,
+        "inquirycountnew": 99,
+        "startdate": "1935-03-07T02:57:32Z",
+        "title": "uDtbrxryTe",
+        "viewcount": 24,
+        "viewcountnew": 27
+      },
+      {
+        "companyid": "YjrizrQbpL",
+        "details": "yKECUlJuPC",
+        "enddate": "1991-02-12T11:39:55Z",
+        "id": "6",
+        "inquirycount": 82,
+        "inquirycountnew": 24,
+        "startdate": "1941-06-19T16:56:46Z",
+        "title": "ZbksfLqZMS",
+        "viewcount": 92,
+        "viewcountnew": 67
+      },
+      {
+        "companyid": "MdcqjzQgXb",
+        "details": "kIoZDNinGR",
+        "enddate": "1902-09-22T10:14:08Z",
+        "id": "7",
+        "inquirycount": 94,
+        "inquirycountnew": 93,
+        "startdate": "1967-07-16T23:10:44Z",
+        "title": "KpjvihMNYf",
+        "viewcount": 56,
+        "viewcountnew": 86
+      },
+      {
+        "companyid": "PnUtQYXYbB",
+        "details": "MJkgcriCqK",
+        "enddate": "1984-12-18T20:26:09Z",
+        "id": "8",
+        "inquirycount": 46,
+        "inquirycountnew": 28,
+        "startdate": "1970-12-01T00:27:18Z",
+        "title": "OElNUMVtrM",
+        "viewcount": 22,
+        "viewcountnew": 37
+      },
+      {
+        "companyid": "yfwbFaXzto",
+        "details": "tXHFfCGgrl",
+        "enddate": "1962-05-20T21:38:43Z",
+        "id": "9",
+        "inquirycount": 13,
+        "inquirycountnew": 48,
+        "startdate": "2019-03-16T10:42:27Z",
+        "title": "MJiuBgAkRd",
+        "viewcount": 66,
+        "viewcountnew": 80
+      },
+      {
+        "companyid": "efTMLHgdrq",
+        "details": "qDclCDABFJ",
+        "enddate": "1965-07-25T10:42:52Z",
+        "id": "10",
+        "inquirycount": 24,
+        "inquirycountnew": 3,
+        "startdate": "1989-04-22T18:40:01Z",
+        "title": "QuaKeVwLEf",
+        "viewcount": 99,
+        "viewcountnew": 93
       }
     ]
-         }
+  }
 }
